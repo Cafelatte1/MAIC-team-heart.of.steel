@@ -21,7 +21,7 @@ helper_functions.py
       ㄴ dnn_rawWithkaggle_densenetLSTM_v2\
            ㄴ .pth 5-fold models
 ```
-Models are shared in link below
+Models are also shared in link below
 
 **[Link](https://drive.google.com/drive/folders/1In4K52ZNaSRYyr0nvmnpSSvacotlvj1r?usp=sharing)**
 
