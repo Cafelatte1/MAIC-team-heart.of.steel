@@ -19,6 +19,8 @@ root
       ㄴ dnn_rawWithkaggle_densenetLSTM_v2\
            ㄴ 5-fold models
 ```
+models are shared in link below
+[models](https://drive.google.com/drive/folders/1In4K52ZNaSRYyr0nvmnpSSvacotlvj1r?usp=sharing)
 
 ### Code snipet for inference
 ```
