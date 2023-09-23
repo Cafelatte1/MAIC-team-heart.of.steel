@@ -21,7 +21,7 @@ root
 ```
 models are shared in link below
 
-[link](https://drive.google.com/drive/folders/1In4K52ZNaSRYyr0nvmnpSSvacotlvj1r?usp=sharing)
+**[Link]**(https://drive.google.com/drive/folders/1In4K52ZNaSRYyr0nvmnpSSvacotlvj1r?usp=sharing)
 
 ### Code snipet for inference
 ```
