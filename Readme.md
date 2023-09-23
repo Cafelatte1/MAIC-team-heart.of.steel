@@ -1,8 +1,10 @@
 ## Solution: MAIC ECG AI Challenge 2023 (Team 강철심장)
 
 Please refer to source structure & code snipet for inference below
+
 ('torch' version depends on your environment)
 
+### Source structure
 ```
 root
   ㄴ dataset\
@@ -18,7 +20,7 @@ root
            ㄴ 5-fold models
 ```
 
-## Code snipet for inference
+### Code snipet for inference
 ```
 python .\inference.py
 ```
