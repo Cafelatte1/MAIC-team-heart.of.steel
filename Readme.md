@@ -10,14 +10,14 @@ root
   ㄴ dataset\
       ㄴ submission.csv
       ㄴ ECG_adult_numpy_valid\
-           ㄴ npz files
+           ㄴ .npz ecg data
       ㄴ ECG_child_numpy_valid\
-           ㄴ npz files
+           ㄴ .npz ecg data
   ㄴ models\
       ㄴ dnn_rawWithkaggle_catboost_v2\
-           ㄴ 5-fold models
+           ㄴ .pkl 5-fold models
       ㄴ dnn_rawWithkaggle_densenetLSTM_v2\
-           ㄴ 5-fold models
+           ㄴ .pth 5-fold models
 ```
 Models are shared in link below
 
